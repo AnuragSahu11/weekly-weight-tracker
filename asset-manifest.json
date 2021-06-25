@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weekly-weight-tracker/static/css/main.4a17d3f4.chunk.css",
+    "main.js": "/weekly-weight-tracker/static/js/main.002d124b.chunk.js",
+    "main.js.map": "/weekly-weight-tracker/static/js/main.002d124b.chunk.js.map",
+    "runtime-main.js": "/weekly-weight-tracker/static/js/runtime-main.d1d2d899.js",
+    "runtime-main.js.map": "/weekly-weight-tracker/static/js/runtime-main.d1d2d899.js.map",
+    "static/js/2.fa69763e.chunk.js": "/weekly-weight-tracker/static/js/2.fa69763e.chunk.js",
+    "static/js/2.fa69763e.chunk.js.map": "/weekly-weight-tracker/static/js/2.fa69763e.chunk.js.map",
+    "index.html": "/weekly-weight-tracker/index.html",
+    "static/css/main.4a17d3f4.chunk.css.map": "/weekly-weight-tracker/static/css/main.4a17d3f4.chunk.css.map",
+    "static/js/2.fa69763e.chunk.js.LICENSE.txt": "/weekly-weight-tracker/static/js/2.fa69763e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d2d899.js",
+    "static/js/2.fa69763e.chunk.js",
+    "static/css/main.4a17d3f4.chunk.css",
+    "static/js/main.002d124b.chunk.js"
+  ]
+}
